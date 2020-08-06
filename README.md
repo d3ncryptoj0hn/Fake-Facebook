@@ -22,6 +22,8 @@ Set this with Administrator Access.
 
 Create Short-cut or Add this to your pannel.
 
+Double click to run it.
+
 Run and for testing.
 
 It will automaticaly create Facebook directory on Program Files (x86)
