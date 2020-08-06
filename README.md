@@ -1,6 +1,8 @@
 # Fake-Facebook
     by: Johnsmith80
 
+Facebook.exe
+
 Fake Facebook for Windows, Build for phishing. no installation needed.
 
 Dont use for for illegal purposes. make sure you have permission to use it
