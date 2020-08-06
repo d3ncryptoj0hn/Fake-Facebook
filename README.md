@@ -7,6 +7,8 @@ Dont use for for illegal purposes. make sure you have permission to use it
 stealing personal account is illegal. this is for educational purposes only
 im not responsible for any illegal purpose of this software.
 
+Only working on C:\ drive
+
 ==========================================================
 
 Setting this app. Choose:
