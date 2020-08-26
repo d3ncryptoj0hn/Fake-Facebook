@@ -49,5 +49,5 @@
 #####  C:\Program Files (x86)\Facebook\INF\account.txt
   
 ==========================================================
-check out my new version 2020:
-Here: https://github.com/johnsmith80/Fake-Facebookv2020.git
+#### check out my new version 2020:
+##### Here: https://github.com/johnsmith80/Fake-Facebookv2020.git
