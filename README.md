@@ -3,7 +3,7 @@
 
 ## Facebook.exe
 ### Screenshot:
-<img src="fb2018.png" width="500" >
+<img src="fb2018.png" width="850" >
 
 Fake Facebook for Windows, Build for phishing. no installation needed.
 
